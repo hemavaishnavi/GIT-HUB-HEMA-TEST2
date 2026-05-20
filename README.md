@@ -9,7 +9,7 @@
 
     <!-- Open Graph / WhatsApp Preview Tags -->
     <meta property="og:title" content="Balaji & Vaishu - Wedding Invitation">
-    <meta property="og:description" content="Join us in our magical journey of love.">
+    <meta property="og: description" content=" Join us in our magical journey of love.">
     <meta property="og:image" content="https://theluxuryinvites.com/custom/K.Balaji_T.G.Hema Vaishnavi/img2.jpeg">
     <meta property="og:type" content="website">
 
@@ -37,7 +37,7 @@
         }
     </script>
     <style>
-        :root {
+        : root {
             --bg-color: #0b0914;
         }
 
@@ -725,6 +725,6 @@
             animateParticles();
         });
     </script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"dbb40e3b27694109914698e84f8a92c5","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version": "2024.11.0", "token": "dbb40e3b27694109914698e84f8a92c5", "r":1, "server_timing":{"name":{"cfCacheStatus": true, "cfEdge": true, "cfExtPri": true, "cfL4": true, "cfOrigin": true, "cfSpeedBrain": true}, "location_startswith": null}}' crossorigin=" anonymous"></script>
 </body>
 </html>
